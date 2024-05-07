@@ -1,0 +1,49 @@
+
+body {background-color: #e0e0e0;
+     color: #3a606e;
+     font-family: papyrus, serif;
+     font-weight: bolder;}
+
+
+#thechoices {
+  font-size: 1.5em;
+  margin: 5px;
+  background-color: #828e82;
+  border-radius: 5px;
+  padding: 5px;
+  border: 2px solid black;
+
+}
+
+#progressbar {font-weight: bolder;
+            
+             }
+
+
+div {margin-top: 20px;
+    margin-bottom: 20px;}
+
+#question {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 5px 5px;
+  background-color: #aaae8e;
+   
+}
+
+#thechoices:hover {
+  cursor: grab;
+}
+#thechoices:active {
+  cursor: grabbing;
+}
+
+
+
+
+
+
+
+
